@@ -8,7 +8,7 @@ This project is a multi-page dynamic portfolio generation system with user authe
   - Work Experience
   - Projects & Publications (Optional)
   - Academic Background (Optional)
-- Data Management (Add, Edit, Delete Entries)
+- Data Management (Add, Edit, Retrive, Delete Entries)
 - Generate PDF Portfolio
 - Navigation Menu for Easy Access
 # Technologies Used
